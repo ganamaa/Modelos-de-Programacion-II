@@ -1,4 +1,5 @@
-# Modelos-de-Programacion-II
+# Modelos II- Ejercicio de los 3 ejemplos
+
 Integrantes:
 Zoraya nazarit Gonzalez  código:20152020213
 
