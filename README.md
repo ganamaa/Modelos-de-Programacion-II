@@ -4,7 +4,7 @@ Lenguaje de programación utilizado Java
 
 Integrantes:
 -
-- Ans María García Acosta código:20171020153
+- Ana María García Acosta código:20171020153
 - Zoraya nazarit Gonzalez  código:20152020213
 
 
