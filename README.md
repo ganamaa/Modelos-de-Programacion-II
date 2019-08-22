@@ -4,7 +4,7 @@ Lenguaje de programación utilizado Java
 
 Integrantes:
 -
--
+- Rafael Ricardo Uribe     código:20162020112
 - Zoraya nazarit Gonzalez  código:20152020213
 
 
